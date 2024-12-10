@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Finance_Software]()
 
-- 🌱 I’m currently Working On **Html, CSS, React, Node Js, Express Js, Mongo DB**
+- 🌱 I’m currently Working On **Html, CSS, React, Node Js, Express Js, Mongo DB, Tailwind CSS, Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://ashokkumarkushwaha.netlify.app/](https://ashokkumarkushwaha.netlify.app/)
 
