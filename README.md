@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=engprogrammer2001&label=Profile%20Views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmastering-learning-linkedin-strategies-software-boulouma-swe--oeuwf&psig=AOvVaw1U9tapKZtgURdFTPA4UzJn&ust=1756632076166000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCbsZ2bso8DFQAAAAAdAAAAABAz)" alt="Profile Views" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQFAEA4kuPV1lg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721202639246?e=1761782400&v=beta&t=f37tX8KguCiuwOJTv7V8nD-UaS7SV3G--dtuH7XSQdk" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me
