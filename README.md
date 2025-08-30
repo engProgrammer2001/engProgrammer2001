@@ -122,11 +122,7 @@
 
 ## 💻 Recent Projects
 
-<div align="center">
-  <a href="https://github.com/engprogrammer2001">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engprogrammer2001&repo=your-repo-name&theme=tokyonight" />
-  </a>
-</div>
+
 
 <!-- Snake animation -->
 <div align="center">
@@ -136,10 +132,7 @@
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
-<!-- Animated Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+
 
 ---
 
