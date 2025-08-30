@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🔭 Currently working on **Finance Software** with cutting-edge technologies
+- 🔭 Currently working on **EV Charging Software** with cutting-edge technologies
 - 💻 Specializing in **React.js, Node.js, Express.js, MongoDB, Tailwind CSS**
 - 🌱 Learning **Advanced System Design** and **Cloud Architecture**
 - 👨‍💻 Check out my portfolio at [ashokkumarkushwaha.netlify.app](https://ashokkumarkushwaha.netlify.app/)
@@ -41,7 +41,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-- 🚀 Building scalable financial applications
+- 🚀 Building scalable EV Charging Software and Apps
 - 📊 Implementing real-time data visualization
 - 🔐 Enhancing application security
 - 📱 Creating responsive and intuitive UIs
