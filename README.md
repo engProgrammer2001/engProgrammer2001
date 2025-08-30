@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | MERN Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="[https://miro.medium.com/v2/resize:fit:1400/1*SYTArEGxMALeKHPmIu-mPA.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmastering-learning-linkedin-strategies-software-boulouma-swe--oeuwf&psig=AOvVaw1U9tapKZtgURdFTPA4UzJn&ust=1756632076166000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCbsZ2bso8DFQAAAAAdAAAAABAz)" width="600" alt="Coding"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*SYTArEGxMALeKHPmIu-mPA.gif" width="600" alt="Coding"/>
 </p>
 
 <p align="center">
