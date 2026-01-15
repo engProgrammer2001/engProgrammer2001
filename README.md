@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/followers/engprogrammer2001?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-<!-- Hero Image for make better look of github and this is good how -->
+<!-- Hero Image for make better look of github and this is good-->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding">
 </div>
