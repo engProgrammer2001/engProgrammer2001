@@ -1,7 +1,7 @@
 <!-- Animated Wave Header this is the main header for the reade file this is ashok and this is comment-->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashok%20Kumar%20Kushwaha&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20MERN%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50" />
 
-<!-- Typing Animation loogin good how-->
+<!-- Typing Animation loogin good how  -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
