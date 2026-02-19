@@ -14,13 +14,13 @@
   <img src="https://img.shields.io/github/followers/engprogrammer2001?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-<!-- Hero Image for make better look of github and -->
+<!-- Hero Image for make better look of github and-->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding">
 </div>
 
 <br/>
-<!-- Hero Image for make better look of github and my profile -->
+<!-- Hero Image for make better look of github and my profile-->
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" height="30" alt="About Me"> About Me
