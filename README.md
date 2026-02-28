@@ -1,4 +1,4 @@
-<!-- Animated Wave Header this is the main header for the reade file this is ashok and this is comment -->
+<!-- Animated Wave Header this is the main header for the reade file this is ashok and this is comment-->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashok%20Kumar%20Kushwaha&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20MERN%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50" />
 
 <!-- Typing Animation loogin good how-->
