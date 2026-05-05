@@ -48,7 +48,7 @@
 - 🔐 Enhancing application security
 - 📱 Creating responsive and intuitive UIs
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack technology
 
 <div align="center">
 
