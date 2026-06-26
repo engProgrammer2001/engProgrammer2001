@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Aurora Header-->
+<!-- Aurora Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Ashok%20Kumar&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Software+Engineer+·+MERN+Stack+·+Open+Source&descAlignY=68&descAlign=50&descSize=20&descColor=e0d7ff&stroke=ffffff&strokeWidth=2" />
 
 <!-- Typing animation -->
