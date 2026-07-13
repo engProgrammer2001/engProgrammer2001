@@ -3,7 +3,7 @@
 <!-- Aurora Header-->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Ashok%20Kumar&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Software+Engineer+·+MERN+Stack+·+Open+Source&descAlignY=68&descAlign=50&descSize=20&descColor=e0d7ff&stroke=ffffff&strokeWidth=2" />
 
-<!-- Typing animation -->
+<!-- Typing animation-->
 <br/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=800&color=764BA2&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=550&height=40&lines=👋+Hi!+I+build+things+for+the+web;🔥+React+%2B+Node.js+%2B+MongoDB+specialist;🚀+Currently+shipping+EV+tech+products;✨+Let's+build+something+amazing+together!" alt="Typing SVG" />
