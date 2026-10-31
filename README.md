@@ -1,16 +1,17 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Ashok%20Kumar&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20MERN%20%C2%B7%20EV%20Tech&descAlignY=58&descSize=20&descColor=c9b8ff" />
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Ashok%20Kumar%20Kushwaha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20Full%20Stack%20(MERN)%20%C2%B7%20EV%20Charging%20Tech&descAlignY=58&descSize=18&descColor=c9b8ff" />
 
-<a href="https://git.io/typing-svg">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=640&height=45&lines=I+build+scalable+web+products;React+%2B+Node.js+%2B+MongoDB;Currently+shipping+EV+charging+tech;Open+to+freelance+%26+remote+roles" />
+<a href="https://ashokkumarkushwaha.netlify.app/">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=680&height=45&lines=3%2B+years+building+production+web+%26+mobile+apps;MERN+%C2%B7+React+Native+%C2%B7+WebSockets+%C2%B7+AWS;OCPI+%2F+OCPP+EV+charging+integrations;Open+to+freelance+%26+remote+opportunities" />
 </a>
 
 <br/>
 
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=engprogrammer2001&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
 <img alt="Followers" src="https://img.shields.io/github/followers/engprogrammer2001?label=Followers&style=for-the-badge&color=6366f1&logo=github" />
+<img alt="Public repos" src="https://img.shields.io/github/search/engprogrammer2001/engprogrammer2001?style=for-the-badge&color=0ea5e9&label=Repos&logo=github&query=user%3Aengprogrammer2001" />
 <img alt="Status" src="https://img.shields.io/badge/Open%20to%20Work-Yes-22c55e?style=for-the-badge" />
 
 <br/><br/>
@@ -27,15 +28,18 @@
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## 👨‍💻 About Me
 
-I'm **Ashok**, a Full Stack Engineer from India who turns complex problems into clean, scalable web products. I work across the whole stack, from polished React interfaces to Node.js APIs and real-time systems.
+Full-stack engineer with **3+ years** of experience building and deploying production web and mobile applications on the **MERN stack**. I design scalable backend APIs, role-based authentication systems and real-time features, with a focus on clean architecture, performance and secure, maintainable code.
+
+At **Ecoplug Energy India Limited** I work on a nationwide **EV charging management system**, including **OCPI/OCPP** protocol integrations between charging stations and the central system.
 
 | | |
 |---|---|
-| 🏗️ **Currently** | Leading frontend and backend for an **EV Charging Platform** |
-| 📚 **Learning** | System Design · AWS · Docker · Microservices |
-| 🤝 **Open to** | Freelance projects · Collaborations · Open source |
+| 🏢 **Currently** | Senior Software Engineer at **Ecoplug Energy India Limited** |
+| 🔌 **Focus** | EV charging platforms · OCPI/OCPP · real-time systems |
+| 📚 **Learning** | System Design · Docker · Microservices |
+| 🤝 **Open to** | Freelance projects · Collaborations · Remote roles |
 | ♟️ **Off-screen** | Chess and late-night debugging |
-| 📍 **Location** | India 🇮🇳 · Available for remote work 🌍 |
+| 📍 **Based in** | Alwar, Rajasthan, India 🇮🇳 |
 
 <br/>
 
@@ -44,19 +48,68 @@ I'm **Ashok**, a Full Stack Engineer from India who turns complex problems into 
 
 <div align="center">
 
-**Frontend**
+**Frontend & Mobile**
 
-<img alt="Frontend" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite,figma&perline=10" />
+<img alt="Frontend" src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,mui&perline=10" />
 
 **Backend & Databases**
 
-<img alt="Backend" src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,mysql,redis,firebase&perline=10" />
+<img alt="Backend" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&perline=10" />
 
 **Cloud, DevOps & Tools**
 
-<img alt="Tools" src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman,vercel&perline=10" />
+<img alt="Tools" src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,netlify,git,github,postman,vscode&perline=10" />
 
 </div>
+
+**Also working with:** React Native · REST APIs · WebSockets · JWT & RBAC · OCPI/OCPP · WhatsApp Cloud API · Cron-based automation
+
+<br/>
+
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+## 💼 Experience
+
+| Role | Company | Period |
+|:--|:--|:--|
+| **Senior Software Engineer** | Ecoplug Energy India Limited · Alwar | Feb 2025 – Present |
+| **Software Engineer** | Web Alpha Technosoft · Noida | Dec 2023 – Jan 2025 |
+| **Software Engineer** | Byju's · Mohali | Jul 2023 – Nov 2023 |
+
+<details>
+<summary><b>⚡ Ecoplug Energy India Limited — highlights</b></summary>
+<br/>
+
+- Built backend APIs for a nationwide EV charging management system
+- Implemented **OCPI/OCPP** integrations for interoperable station-to-CMS communication
+- Built **WebSocket** features for live charging session monitoring
+- Optimized server performance and API response times for high-availability operations
+- Managed charging session and tariff data across the platform
+
+</details>
+
+<details>
+<summary><b>🌐 Web Alpha Technosoft — highlights</b></summary>
+<br/>
+
+- Built responsive web apps with React.js and modern JavaScript for multiple clients
+- Designed RESTful APIs with Node.js and Express.js
+- Implemented JWT authentication with role-based access control
+- Optimized MongoDB queries and indexing
+- Deployed to AWS, Vercel and Netlify; delivered scalable e-commerce and management systems
+
+</details>
+
+<details>
+<summary><b>📈 Byju's — highlights</b></summary>
+<br/>
+
+- Built a scalable **Lead Management System** on the MERN stack
+- Role-based panels for Admin, Manager and Sales Executive
+- Full lead lifecycle APIs: New → Contacted → Qualified → Converted → Closed
+- Real-time status updates and notifications via WebSockets
+- Advanced filtering, search and pagination; deployed on Cloudflare
+
+</details>
 
 <br/>
 
@@ -65,36 +118,39 @@ I'm **Ashok**, a Full Stack Engineer from India who turns complex problems into 
 
 <div align="center">
 
-| Project | Stack | Status | Link |
-|:--|:--|:-:|:-:|
-| ⚡ **EV Charging Platform** | React · Node.js · MongoDB · WebSocket | 🟢 Live | [Demo](https://ashokkumarkushwaha.netlify.app/) |
-| 📊 **Real-time Dashboard** | D3.js · Redis · Express | 🟢 Live | [Repo](https://github.com/engprogrammer2001) |
-| 🛒 **E-Commerce App** | MERN · Stripe | 🟡 In progress | [Repo](https://github.com/engprogrammer2001) |
-| 🔐 **Auth Microservice** | JWT · OAuth2 · RBAC | ✅ Completed | [Repo](https://github.com/engprogrammer2001) |
+| Project | Stack | Highlights |
+|:--|:--|:--|
+| ⚡ **EV Charging Station Management System** | MERN · WebSocket · AWS | Station, booking and payment management, real-time slot availability, Google Maps tracking |
+| 📱 **Ecoplug Mobile App** (Android / iOS) | React Native · Google Maps API · JWT | Find, book and manage charging stations; booking history, wallet and live charging status |
+| 📊 **Lead Management System Portal** | MERN · WebSocket · RBAC | Lead tracking and assignment, real-time status updates, automated follow-up reminders |
 
 </div>
 
-> 💡 Explore everything at [github.com/engprogrammer2001](https://github.com/engprogrammer2001?tab=repositories)
+> 💡 More work on my [GitHub repositories](https://github.com/engprogrammer2001?tab=repositories) and [portfolio](https://ashokkumarkushwaha.netlify.app/).
 
 <br/>
 
-<!-- ═══════════════ STATS ═══════════════ -->
-## 📊 GitHub Analytics
+<!-- ═══════════════ GITHUB ═══════════════ -->
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=engprogrammer2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engprogrammer2001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=engprogrammer2001&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img alt="Streak" src="https://streak-stats.demolab.com?user=engprogrammer2001&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img alt="Activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=engprogrammer2001&theme=tokyo-night&hide_border=true&area=true" />
+<img alt="Contribution chart" width="95%" src="https://ghchart.rshah.org/7c3aed/engprogrammer2001" />
 
 </div>
+
+<br/>
+
+<!-- ═══════════════ EDUCATION ═══════════════ -->
+## 🎓 Education & Certifications
+
+- **B.Tech** — Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal (2019 – 2023)
+- **SQL for Data Science** — Coursera (June 2022)
+- **Python Programming Certification** (July 2022)
 
 <br/>
 
