@@ -25,7 +25,7 @@
 
 <br/>
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
+<!-- ═══════════════ ABOUT US ═══════════════ -->
 ## 👨‍💻 About Me
 
 Full-stack engineer with **3+ years** of experience building and deploying production web and mobile applications on the **MERN stack**. I design scalable backend APIs, role-based authentication systems and real-time features, with a focus on clean architecture, performance and secure, maintainable code.
