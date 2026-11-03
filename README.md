@@ -15,7 +15,7 @@
 <img alt="Status" src="https://img.shields.io/badge/Open%20to%20Work-Yes-22c55e?style=for-the-badge" />
 
 <br/><br/>
-<!-- ═══════════════ TEXT SECTION ═══════════════ -->
+<!--═══════════════ TEXT SECTION ═══════════════-->
 <a href="https://ashokkumarkushwaha.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ashok-kumar-kushwaha-1305b5224/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ashok.kushwaha81033@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
