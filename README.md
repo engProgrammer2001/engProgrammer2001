@@ -1,4 +1,4 @@
-<!-- ═══════════════ HEADER ═══════════════-->
+<!-- ═══════════════HEADER═══════════════-->
 <div align="center">
 
 <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Ashok%20Kumar%20Kushwaha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20Full%20Stack%20(MERN)%20%C2%B7%20EV%20Charging%20Tech&descAlignY=58&descSize=18&descColor=c9b8ff" />
