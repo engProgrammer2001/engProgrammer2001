@@ -43,7 +43,7 @@ At **Ecoplug Energy India Limited** I work on a nationwide **EV charging managem
 
 <br/>
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
+<!-- ═══════════════TECH STACK═══════════════ -->
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -66,7 +66,7 @@ At **Ecoplug Energy India Limited** I work on a nationwide **EV charging managem
 
 <br/>
 
-<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+<!-- ═══════════════EXPERIENCE ═══════════════ -->
 ## 💼 Experience
 
 | Role | Company | Period |
